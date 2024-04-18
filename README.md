@@ -1,1 +1,2 @@
 # intro-to-visual-learning_hw1
+this repository is the fundamental of the neural network and classification. Including building layers(base_layer, sequential) and activation functions(relu, sofmax) and also loss function.
