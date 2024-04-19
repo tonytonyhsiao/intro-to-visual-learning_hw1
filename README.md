@@ -33,7 +33,7 @@ Including:
 * Building loss function from scratch
 * Tuning hyperparameter of the classification model to increase the accuracy.
 
-![accuracy diagram](accuracy pic.png)
+![accuracy diagram](https://github.com/tonytonyhsiao/intro-to-visual-learning_hw1/blob/main/accuracy%20pic.png)
 
 
 
